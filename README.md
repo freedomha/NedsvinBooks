@@ -1,2 +1,2 @@
 # Books
-Serie de livros para estudo(em inglês) 
+Books for studying technology
